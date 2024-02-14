@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kyalo Josephine
 - 👀 I’m interested in ui/ux, web development and generally programming.
 - 🌱 I’m currently learning Kotlin, figma and javascript.
-- 💞️ I’m looking to collaborate on various projects that need my coding skills, or my designs or just web development category.
-- 📫 How to reach me, contact:+254 111423809/ email: josephine04kyalo2004@gmail.com 
+- 💞️ I’m looking to collaborate on various projects that require my coding skills, design expertise or fall under the web development category.
+- 📫 How to reach me, contact:+254 111423809, email: josephine04kyalo2004@gmail.com, LinkedIn: @Kyalo Josephine
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: How do you comfort a JavaScript bug?......You "console" it!
 
