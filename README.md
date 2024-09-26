@@ -15,7 +15,7 @@
 - 🌱 I’m currently working on various AI models
 - 💞️ I’m looking to collaborate on various projects that require my AI/ML skills, design expertise or fall under the web development category.
 - 📫 How to reach me,
-   * email: josephine04kyalo2004@gmail.com
+   * email: josephine04kyalo@gmail.com
    * LinkedIn: @Kyalo Josephine
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Why did the deep learning model go to therapy?
