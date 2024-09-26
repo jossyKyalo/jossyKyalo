@@ -1,10 +1,25 @@
 - 👋 Hi, I’m @Kyalo Josephine
-- 👀 I’m interested in ui/ux, web development and generally programming.
-- 🌱 I’m currently learning Kotlin, figma and javascript.
-- 💞️ I’m looking to collaborate on various projects that require my coding skills, design expertise or fall under the web development category.
-- 📫 How to reach me, contact:+254 111423809, email: josephine04kyalo2004@gmail.com, LinkedIn: @Kyalo Josephine
+- I hve knowledge of various technologies such as:
+![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
+![Java](https://img.shields.io/badge/Java-17-orange?logo=java)
+![Pandas](https://img.shields.io/badge/Pandas-data-blue?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-matrix-purple?logo=numpy)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?logo=tensorflow)
+![Docker](https://img.shields.io/badge/Docker-containerization-lightblue?logo=docker)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+- 👀 I’m a passionate data scientist, developer and designer
+- 🌱 I’m currently working on various AI models
+- 💞️ I’m looking to collaborate on various projects that require my AI/ML skills, design expertise or fall under the web development category.
+- 📫 How to reach me,
+   * email: josephine04kyalo2004@gmail.com
+   * LinkedIn: @Kyalo Josephine
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: How do you comfort a JavaScript bug?......You "console" it!
+- ⚡ Fun fact: Why did the deep learning model go to therapy?
+     "It had too many layers of issues!"
 
 <!---
 jossyKyalo/jossyKyalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
