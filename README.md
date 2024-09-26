@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kyalo Josephine
-- I hve knowledge of various technologies such as:
+## 👋 Hi, I’m @Kyalo Josephine
+- Technologies I work with:
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java)
 ![Pandas](https://img.shields.io/badge/Pandas-data-blue?logo=pandas)
@@ -10,6 +10,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003b57?logo=matplotlib&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+
 
 - 👀 I’m a passionate data scientist, developer and designer
 - 🌱 I’m currently working on various AI models
@@ -18,7 +24,7 @@
    * email: josephine04kyalo@gmail.com
    * LinkedIn: @Kyalo Josephine
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Why did the deep learning model go to therapy?
+# ⚡ Fun fact: Why did the deep learning model go to therapy?
      "It had too many layers of issues!"
 
 <!---
