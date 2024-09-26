@@ -24,8 +24,7 @@
    * email: josephine04kyalo@gmail.com
    * LinkedIn: @Kyalo Josephine
 - 😄 Pronouns: she/her
-# ⚡ Fun fact: Why did the deep learning model go to therapy?
-     "It had too many layers of issues!"
+# ⚡ Fun fact: Why did the deep learning model go to therapy?......."It had too many layers of issues!"
 
 <!---
 jossyKyalo/jossyKyalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
